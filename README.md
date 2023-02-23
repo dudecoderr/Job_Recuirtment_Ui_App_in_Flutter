@@ -1,16 +1,22 @@
-# recruitment_ui_in_flutter_app
+# Job_Recuirtment_Ui_App_in_Flutter
 
-A new Flutter project.
+#### Github Link : https://github.com/dudecoderr/Job_Recuirtment_Ui_App_in_Flutter.git
 
-## Getting Started
+                               
+# Changelog
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Note: _**last updated january 2023 configured project to latest flutter version 3.7.3**_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="" width="200%">
+</p>
+
+**Packages used:**
+
+ - flutter_screenutil: ^5.6.0
+ - get: ^4.6.5
+ - phlox_animations: ^2.1.1
+ - page_transition: ^2.0.9
+ - floating_bottom_navigation_bar: ^1.5.2
