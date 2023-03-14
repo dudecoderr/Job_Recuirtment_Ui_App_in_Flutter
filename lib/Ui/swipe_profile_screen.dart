@@ -85,7 +85,7 @@ class _SwipeProfileScreenState extends State<SwipeProfileScreen> {
                 child: Container(
                   // color: Colors.yellow,
                   width: MediaQuery.of(context).size.width,
-                  height: 200,
+                  height: 200.h,
                   child: Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20),
                     child: Column(

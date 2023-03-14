@@ -190,7 +190,7 @@ class _HomePageState extends State<HomePage> {
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: [
                                     Container(
-                                      width: 140.w,
+                                      width: 145.w,
                                       child: Row(
                                         children: [
                                           Icon(
