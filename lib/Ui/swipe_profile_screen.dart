@@ -50,24 +50,25 @@ class _SwipeProfileScreenState extends State<SwipeProfileScreen> {
             ),
           ),
           Positioned(
-            top: 42,
-            left: 8,
+            top: 55,
+            left: 20,
             child: InkWell(
               onTap: () {
                 Navigator.pop(context);
               },
-              child: Container(
-                height: 45.h,
-                width: 48.w,
-                decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(12.r),
-                    color: Colors.white38),
-                child: Icon(
-                  Icons.arrow_back,
-                  color: Colors.white,
-                  size: 25.sp,
-                ),
+              child: Icon(
+                Icons.arrow_back,
+                color: Colors.white,
+                size: 25.sp,
               ),
+            ),
+          ), Positioned(
+            top: 55,
+            right: 20,
+            child: Icon(
+              Icons.more_horiz,
+              color: Colors.white,
+              size: 25.sp,
             ),
           ),
           Positioned(
