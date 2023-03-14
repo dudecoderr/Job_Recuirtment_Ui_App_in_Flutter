@@ -15,6 +15,7 @@ class _BottomNavigationScreenState extends State<BottomNavigationScreen> {
   int current_index = 0;
   final List<Widget> pages = [
     const HomePage(),
+
     Center(),
     Center(),
     Center(),
